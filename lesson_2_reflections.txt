@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area acts as a buffer state between working directory and repository in the sense we can add files individually to working area and then in a single commit we can add the entire set of files into the repository.
