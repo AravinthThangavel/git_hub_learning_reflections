@@ -1,3 +1,15 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area acts as a buffer state between working directory and repository in the sense we can add files individually to working area and then in a single commit we can add the entire set of files into the repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches will be useful when we want to have a experimental feature without affecting the original working version
+
+How do the diagrams help you visualize the branch structure?
+
+We can get the idea of structure of the commits.
+
+What are the pros and cons of Git’s automatic merging vs always doing merges manually?
+
+Automatic merging reduces the manual work of comparing two files and merging it. It helps to reduce most of the obvious meging tasks.
